@@ -23,7 +23,7 @@ origin  git@github.com:newUser/NodeCI.git (push)
 λ git add .
 
 # Set name to commit
-λ git commit -m Travis CI config"
+λ git commit -m "Travis CI config"
 
 # Check commits
 λ git status
